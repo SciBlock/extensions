@@ -4,6 +4,8 @@ Extensions AIX using programming visual Blockly
 
 NOTE: If you want to use both classification and regression extensions, you should only use the Machine Learning extension that includes both, if you try to use separate extensions in the same program self in the compilation you will get an error because they use the same libraries. Therefore, only use the Machine Learning extension that includes both. 
 
+NOTE: The datasets and/or data used in the extensions are only examples, the models are to be used generically and depending on the needs of each user, they can adapt or change the dataset they are using or training.
+
 Description:
 
 # Classification - (Machine Learning).
