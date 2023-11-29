@@ -6,7 +6,10 @@ NOTE: If you want to use both classification and regression extensions, you shou
 
 NOTE: The datasets and/or data used in the extensions are only examples, the models are to be used generically and depending on the needs of each user, they can adapt or change the dataset they are using or training.
 
-Description:
+Examples in directory Sciblock/Examples
+Datasets for examples in directory Sciblock/Datasets
+
+Descriptions:
 
 # Classification - (Machine Learning).
 TOPICS: Cluster Evaluation, Cross Validation, Cross Validation with Folds, Evaluate DataSet, K Dependent Bayes, K DTrees Nearest-Neightbors, KMeans, K Nearest Neightbors, Native Bayes, Optimization SVM, Random Forest and SVM (Support Vector Machine). 
