@@ -1,8 +1,28 @@
 # SciBlock.org 
-# Extensions Blockly for Artificial Intelligence - Machine Learning, NLP, CV, Neural Networks, Data Science.
+# Extensions Blockly for Artificial Intelligence - Machine Learning, NLP, Computer Vision, Neural Networks, Data Science.
 Extensions AIX using programming visual Blockly
+
+NOTE: If you want to use both classification and regression extensions, you should only use the Machine Learning extension that includes both, if you try to use separate extensions in the same program self in the compilation you will get an error because they use the same libraries. Therefore, only use the Machine Learning extension that includes both. 
 
 Description:
 
-# Classification - (Machine Learning)
-TOPICS: Cluster Evaluation, Cross Validation, Cross Validation with Folds, Evaluate DataSet, K Dependent Bayes, K DTrees Nearest-Neightbors, KMeans, K Nearest Neightbors, Native Bayes, Optimization SVM, Random Forest and SVM (Support Vector Machine).
+# Classification - (Machine Learning).
+TOPICS: Cluster Evaluation, Cross Validation, Cross Validation with Folds, Evaluate DataSet, K Dependent Bayes, K DTrees Nearest-Neightbors, KMeans, K Nearest Neightbors, Native Bayes, Optimization SVM, Random Forest and SVM (Support Vector Machine). 
+
+# Regression - (Machine Learning).
+TOPICS: Logistic Regression, Multiple Linear Regression, Polynomial Regression and Simple Linear Regression. 
+
+# Machine Learning- (Classification + Regression).
+This extension contains both classification and regression algorithms. 
+TOPICS: Logistic Regression, Multiple Linear Regression, Polynomial Regression and Simple Linear Regression, Cluster Evaluation, Cross Validation, Cross Validation with Folds, Evaluate DataSet, K Dependent Bayes, K DTrees Nearest-Neightbors, KMeans, K Nearest Neightbors, Native Bayes, Optimization SVM, Random Forest and SVM (Support Vector Machine).
+
+# AI - Image Processing & Computer Vision.
+TOPICS: Choose Color to convert, Comparate Images, Convert to Array Binary, Convert to Gray, Convert to Sepia, Convert to White-Black, Create Mirror Image, Cretae Random Image, Find Contour with Sobel algorithm, Apply Gaussian algorithm, Apply Median Filter, Resize Image, Count Objets CV, Features Image, Copy Image.
+
+# Neural Networks.
+TOPICS: Check Dataset, Print DataSet, Normalization Data, Perceptron, Import Model Perceptron, Adaline, Import Model Adaline, Hopfield, Import Model Hopfield, MultiLayer BackPropagation with Random, MultiLayer BackPropagation, Import Model BackPropagation, FeedForward, Import Model FeedForward, Import Model FeedForward with Genetic Algorithm, RBF (Radial Basis Funtion), Import Model RBF, Resilient Propagation, Import Model Resilient Propagation.
+
+# NLP - Natural Language Processing - (NER) - Named Entity Recognition.
+TOPICS: Find parts using NER, Chunker using NER, Classification document, Location Finder, NER Training Model, Name Finder within Sentence, Name Finder in Array String, Parser NER, Sentence Detector, Sentence Detector Training Model, Sentence Probabilities, Sentiment Detector, Span Sentences, Tokenizer, Tokenizer positions, Tokenizer probability, Tokenizer using Model.
+
+
