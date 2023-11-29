@@ -1,5 +1,5 @@
 # SciBlock.org 
-# Extensions Blockly for Artificial Intelligence - Machine Learning, NLP, Computer Vision, Neural Networks, Data Science.
+# Extensions Blockly for Artificial Intelligence - Machine Learning, NLP, Computer Vision, Neural Networks, Data Science, Security and Communications. 
 Extensions AIX using programming visual Blockly
 
 NOTE: If you want to use both classification and regression extensions, you should only use the Machine Learning extension that includes both, if you try to use separate extensions in the same program self in the compilation you will get an error because they use the same libraries. Therefore, only use the Machine Learning extension that includes both. 
@@ -25,4 +25,8 @@ TOPICS: Check Dataset, Print DataSet, Normalization Data, Perceptron, Import Mod
 # NLP - Natural Language Processing - (NER) - Named Entity Recognition.
 TOPICS: Find parts using NER, Chunker using NER, Classification document, Location Finder, NER Training Model, Name Finder within Sentence, Name Finder in Array String, Parser NER, Sentence Detector, Sentence Detector Training Model, Sentence Probabilities, Sentiment Detector, Span Sentences, Tokenizer, Tokenizer positions, Tokenizer probability, Tokenizer using Model.
 
+# Security & PQC (Post Quantum computing).
+TOPICS: AES, RSA, DES, SHA, SHA3, SHA256, SHA512, MD5, Base64, Convert String to Binary, EDSA, ECC, Keccak available now and PQC (Available 2024).
 
+# Communicacions.
+TOPICS: Web Server, SSH, IP-Forwarding. Remote access direct to any mobile device, table or PC, through a Web server.
