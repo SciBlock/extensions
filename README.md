@@ -25,7 +25,8 @@ TOPICS: Logistic Regression, Multiple Linear Regression, Polynomial Regression a
 TOPICS: Choose Color to convert, Comparate Images, Convert to Array Binary, Convert to Gray, Convert to Sepia, Convert to White-Black, Create Mirror Image, Cretae Random Image, Find Contour with Sobel algorithm, Apply Gaussian algorithm, Apply Median Filter, Resize Image, Count Objets CV, Features Image, Copy Image.
 
 # Neural Networks.
-TOPICS: Check Dataset, Print DataSet, Normalization Data, Perceptron, Import Model Perceptron, Adaline, Import Model Adaline, Hopfield, Import Model Hopfield, MultiLayer BackPropagation with Random, MultiLayer BackPropagation, Import Model BackPropagation, FeedForward, Import Model FeedForward, Import Model FeedForward with Genetic Algorithm, RBF (Radial Basis Funtion), Import Model RBF, Resilient Propagation, Import Model Resilient Propagation, Bidirectional Associative Memory (BAM - Experimental).                                              
+TOPICS: Check Dataset, Print DataSet, Normalization Data, Perceptron, Import Model Perceptron, Adaline, Import Model Adaline, Hopfield, Import Model Hopfield, MultiLayer BackPropagation with Random, MultiLayer BackPropagation, Import Model BackPropagation, FeedForward, Import Model FeedForward, Import Model FeedForward with Genetic Algorithm, RBF (Radial Basis Funtion), Import Model RBF, Resilient Propagation, Import Model Resilient Propagation, Bidirectional Associative Memory (BAM - Experimental). 
+# Types extension Neural Networks.
 (1) .- com.SciBlock_NeuralNetwork.aix extension include Genetic Algoritm and funtion activation (ReLU, TANH and SIGMOIDE).                                                                  
 (2).- com.SciBlock_NN.aix extension include differents models and funtions activation (GAUSSIAN, LINEAR, LOG, RAMP, SIGN, SIN, TANH and TRAPEZOID, Does not include ReLU activation function). If you want to use ReLU use the extension (1).
 
