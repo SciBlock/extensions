@@ -25,7 +25,7 @@ TOPICS: Logistic Regression, Multiple Linear Regression, Polynomial Regression a
 TOPICS: Choose Color to convert, Comparate Images, Convert to Array Binary, Convert to Gray, Convert to Sepia, Convert to White-Black, Create Mirror Image, Cretae Random Image, Find Contour with Sobel algorithm, Apply Gaussian algorithm, Apply Median Filter, Resize Image, Count Objets CV, Features Image, Copy Image.
 
 # Neural Networks.
-TOPICS: Check Dataset, Print DataSet, Normalization Data, Perceptron, Import Model Perceptron, Adaline, Import Model Adaline, Hopfield, Import Model Hopfield, MultiLayer BackPropagation with Random, MultiLayer BackPropagation, Import Model BackPropagation, FeedForward, Import Model FeedForward, Import Model FeedForward with Genetic Algorithm, RBF (Radial Basis Funtion), Import Model RBF, Resilient Propagation, Import Model Resilient Propagation, Bidirectional Associative Memory (BAM - Experimental) 
+TOPICS: Check Dataset, Print DataSet, Normalization Data, Perceptron, Import Model Perceptron, Adaline, Import Model Adaline, Hopfield, Import Model Hopfield, MultiLayer BackPropagation with Random, MultiLayer BackPropagation, Import Model BackPropagation, FeedForward, Import Model FeedForward, Import Model FeedForward with Genetic Algorithm, RBF (Radial Basis Funtion), Import Model RBF, Resilient Propagation, Import Model Resilient Propagation, Bidirectional Associative Memory (BAM - Experimental).
 
 # NLP - Natural Language Processing - (NER) - Named Entity Recognition.
 TOPICS: Find parts using NER, Chunker using NER, Classification document, Location Finder, NER Training Model, Name Finder within Sentence, Name Finder in Array String, Parser NER, Sentence Detector, Sentence Detector Training Model, Sentence Probabilities, Sentiment Detector, Span Sentences, Tokenizer, Tokenizer positions, Tokenizer probability, Tokenizer using Model.
@@ -35,3 +35,6 @@ TOPICS: AES, RSA, DES, SHA, SHA3, SHA256, SHA512, MD5, Base64, Convert String to
 
 # Communicacions.
 TOPICS: Web Server, SSH, IP-Forwarding. Remote access direct to any mobile device, table or PC, through a Web server.
+
+# Blockchain (Q2, 2024).
+TOPICS: PoW (Proof of Work), Creation address cryptocurrencies (Bitcoin, Ethereum and 15 types more), security transaction and operations, database blockchain, Transaction on blockchain ethereum and bitcoin, raw transactions, transaction signatures, P2P communications. Wallet creation, creation of your own cryptocurrency or token. 
