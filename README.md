@@ -41,3 +41,6 @@ TOPICS: PoW (Proof of Work), Creation address cryptocurrencies (Bitcoin, Ethereu
 
 # Quantum Computer (Q2, 2024).
 TOPICS: Quantum logic gates, superposition and entanglement operations, creation of models and programs to run on real computers, simulator.
+
+# information
+info@sciblock.org / www.sciblock.org / www.sciblock.net / Sciblock Foundation.
