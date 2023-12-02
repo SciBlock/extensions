@@ -39,5 +39,5 @@ TOPICS: Web Server, SSH, IP-Forwarding. Remote access direct to any mobile devic
 # Blockchain (Q1, 2024).
 TOPICS: PoW (Proof of Work), Creation address cryptocurrencies (Bitcoin, Ethereum and 15 types more), security transaction and operations, database blockchain, Transaction on blockchain ethereum and bitcoin, raw transactions, transaction signatures, P2P communications. Wallet creation, creation of your own cryptocurrency or token. 
 
-# Quantum Computer (Q3, 2024).
+# Quantum Computer (Q2, 2024).
 TOPICS: Quantum logic gates, superposition and entanglement operations, creation of models and programs to run on real computers, simulator.
