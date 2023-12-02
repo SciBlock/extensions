@@ -28,7 +28,7 @@ TOPICS: Choose Color to convert, Comparate Images, Convert to Array Binary, Conv
 TOPICS: Check Dataset, Print DataSet, Normalization Data, Perceptron, Import Model Perceptron, Adaline, Import Model Adaline, Hopfield, Import Model Hopfield, MultiLayer BackPropagation with Random, MultiLayer BackPropagation, Import Model BackPropagation, FeedForward, Import Model FeedForward, Import Model FeedForward with Genetic Algorithm, RBF (Radial Basis Funtion), Import Model RBF, Resilient Propagation, Import Model Resilient Propagation, Bidirectional Associative Memory (BAM - Experimental). 
 # Types extension Neural Networks.
 (1) .- com.SciBlock_NeuralNetwork.aix extension include Genetic Algoritm and funtion activation (ReLU, TANH and SIGMOIDE).                                                                  
-(2).- com.SciBlock_NN.aix extension include differents models and funtions activation (GAUSSIAN, LINEAR, LOG, RAMP, SIGN, SIN, TANH and TRAPEZOID, Does not include ReLU activation function). If you want to use ReLU use the extension (1).
+(2) .- com.SciBlock_NN.aix extension include differents models and funtions activation (GAUSSIAN, LINEAR, LOG, RAMP, SIGN, SIN, TANH and TRAPEZOID, Does not include ReLU activation function). If you want to use ReLU use the extension (1).
 
 # NLP - Natural Language Processing - (NER) - Named Entity Recognition.
 TOPICS: Find parts using NER, Chunker using NER, Classification document, Location Finder, NER Training Model, Name Finder within Sentence, Name Finder in Array String, Parser NER, Sentence Detector, Sentence Detector Training Model, Sentence Probabilities, Sentiment Detector, Span Sentences, Tokenizer, Tokenizer positions, Tokenizer probability, Tokenizer using Model.
