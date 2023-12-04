@@ -1,4 +1,4 @@
-# SciBlock.org - Launch 31 / Dec / 2023
+# SciBlock.org - Launch December 31, 2023
 # Extensions Blockly for Artificial Intelligence - Machine Learning, NLP, Computer Vision, Neural Networks, Data Science, Security, (Blockchain Available - Q1 2024) , (Quantum Computer Available - Q2, 2024), (PQC - PostQuantum Computer - Available Q3, 2024) and Communications. 
 Extensions AIX using programming visual Blockly
 
