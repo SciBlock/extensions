@@ -1,5 +1,5 @@
 # SciBlock.org - Launch 2024-25
-# Extensions Blockly for Artificial Intelligence - Machine Learning, NLP, Computer Vision, Neural Networks, Data Science, Security, (Blockchain Available - Q1 2024) , (Quantum Computer Available - Q2, 2024), (PQC - PostQuantum Computer - Available Q3, 2024) and Communications. 
+# Extensions Blockly for Artificial Intelligence - Machine Learning, NLP, Computer Vision, Neural Networks, Data Science, Security, (Blockchain Available - 2024-25) , (Quantum Computer Available - 2024-25), (PQC - PostQuantum Computer - Available 2024-25) and Communications. 
 Extensions AIX using programming visual Blockly
 
 NOTE: If you want to use both classification and regression extensions, you should only use the Machine Learning extension that includes both, if you try to use separate extensions in the same program self in the compilation you will get an error because they use the same libraries. Therefore, only use the Machine Learning extension that includes both. 
@@ -33,16 +33,16 @@ TOPICS: Check Dataset, Print DataSet, Normalization Data, Perceptron, Import Mod
 # NLP - Natural Language Processing - (NER) - Named Entity Recognition.
 TOPICS: Find parts using NER, Chunker using NER, Classification document, Location Finder, NER Training Model, Name Finder within Sentence, Name Finder in Array String, Parser NER, Sentence Detector, Sentence Detector Training Model, Sentence Probabilities, Sentiment Detector, Span Sentences, Tokenizer, Tokenizer positions, Tokenizer probability, Tokenizer using Model.
 
-# Security & PQC (Post Quantum computing Q3, 2024).
+# Security & PQC (Post Quantum computing 2024-25).
 TOPICS: AES, RSA, DES, SHA, SHA3, SHA256, SHA512, MD5, Base64, Convert String to Binary, EDSA, ECC, Keccak available now and PQC (Available 2024).
 
 # Communicacions.
 TOPICS: Web Server, SSH, IP-Forwarding. Remote access direct to any mobile device, table or PC, through a Web server.
 
-# Blockchain (Q1, 2024).
+# Blockchain (2024-25).
 TOPICS: PoW (Proof of Work), Creation address cryptocurrencies (Bitcoin, Ethereum and 15 types more), security transaction and operations, database blockchain, Transaction on blockchain ethereum and bitcoin, raw transactions, transaction signatures, P2P communications. Wallet creation, creation of your own cryptocurrency or token. 
 
-# Quantum Computer (Q2, 2024).
+# Quantum Computer (2024-25).
 TOPICS: Quantum logic gates, superposition and entanglement operations, creation of models and programs to run on real computers, simulator.
 
 # information
