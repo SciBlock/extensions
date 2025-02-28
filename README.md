@@ -1,4 +1,7 @@
-# SciBlock.org - Launch February 28, 2025
+# SciBlock.org - Now is available, Now available - any comments info@sciblock.org / info@sciblock.net
+
+You can also consult documentation and examples at www.sciblock.net
+
 # Extensions Blockly for Artificial Intelligence - Machine Learning, NLP, Computer Vision, Neural Networks, Data Science, Security, (Blockchain Available - Q22025) , (Quantum Computer Available - Q22025), (PQC - PostQuantum Computer - Available Q22025) and Communications. 
 Extensions AIX using programming visual Blockly
 
@@ -33,16 +36,16 @@ TOPICS: Check Dataset, Print DataSet, Normalization Data, Perceptron, Import Mod
 # NLP - Natural Language Processing - (NER) - Named Entity Recognition.
 TOPICS: Find parts using NER, Chunker using NER, Classification document, Location Finder, NER Training Model, Name Finder within Sentence, Name Finder in Array String, Parser NER, Sentence Detector, Sentence Detector Training Model, Sentence Probabilities, Sentiment Detector, Span Sentences, Tokenizer, Tokenizer positions, Tokenizer probability, Tokenizer using Model.
 
-# Security & PQC (Post Quantum computing 2024-25).
+# Security & PQC (Post Quantum computing Q42025).
 TOPICS: AES, RSA, DES, SHA, SHA3, SHA256, SHA512, MD5, Base64, Convert String to Binary, EDSA, ECC, Keccak available now and PQC (Available 2024).
 
 # Communicacions.
 TOPICS: Web Server, SSH, IP-Forwarding. Remote access direct to any mobile device, table or PC, through a Web server.
 
-# Blockchain (2024-25).
+# Blockchain (Q42025).
 TOPICS: PoW (Proof of Work), Creation address cryptocurrencies (Bitcoin, Ethereum and 15 types more), security transaction and operations, database blockchain, Transaction on blockchain ethereum and bitcoin, raw transactions, transaction signatures, P2P communications. Wallet creation, creation of your own cryptocurrency or token. 
 
-# Quantum Computer (2024-25).
+# Quantum Computer (Q22025).
 TOPICS: Quantum logic gates, superposition and entanglement operations, creation of models and programs to run on real computers, simulator.
 
 # information
