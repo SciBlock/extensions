@@ -40,7 +40,7 @@ TOPICS: Check Dataset, Print DataSet, Normalization Data, Perceptron, Import Mod
 TOPICS: Find parts using NER, Chunker using NER, Classification document, Location Finder, NER Training Model, Name Finder within Sentence, Name Finder in Array String, Parser NER, Sentence Detector, Sentence Detector Training Model, Sentence Probabilities, Sentiment Detector, Span Sentences, Tokenizer, Tokenizer positions, Tokenizer probability, Tokenizer using Model.
 
 # Security & PQC (Post Quantum computing Q42025).
-TOPICS: AES, RSA, DES, SHA, SHA3, SHA256, SHA512, MD5, Base64, Convert String to Binary, EDSA, ECC, Keccak available now and PQC (Available 2024).
+TOPICS: AES, RSA, DES, SHA, SHA3, SHA256, SHA512, MD5, Base64, Convert String to Binary, EDSA, ECC, Keccak available now and PQC (Available Q42025).
 
 # Communicacions.
 TOPICS: Web Server, SSH, IP-Forwarding. Remote access direct to any mobile device, table or PC, through a Web server.
