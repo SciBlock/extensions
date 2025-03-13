@@ -2,7 +2,7 @@
 
 # You can also consult documentation and examples at www.sciblock.net
 
-# Extensions Blockly for Artificial Intelligence - Lineal Algebra, Machine Learning, NLP, Computer Vision, Neural Networks, Data Science, Security, (Blockchain Available - Q22025) , (Quantum Computer Available - Q42025), (PQC - PostQuantum Computer - Available Q42025) and Communications. 
+# Extensions Blockly for Artificial Intelligence - Lineal Algebra, Machine Learning, NLP, Computer Vision, Neural Networks, Data Science, Security, (Blockchain Available - Q42025) , (Quantum Computer Available - Q42025), (PQC - PostQuantum Computer - Available Q42025) and Communications. 
 Extensions AIX using programming visual Blockly
 
 NOTE: If you want to use both classification and regression extensions, you should only use the Machine Learning extension that includes both, if you try to use separate extensions in the same program self in the compilation you will get an error because they use the same libraries. Therefore, only use the Machine Learning extension that includes both. 
