@@ -13,6 +13,9 @@ Examples in directory Sciblock/Examples
 Datasets for examples in directory Sciblock/Datasets
 
 Descriptions:
+# Lineal Algebra (Matrix Operations).
+
+TOPICS: Adjoint , Clone, Cofactor, Determinant, Inverse, Minus, Scalar, Multiplication, Plus, Random, Trace, Transpose and Identity.
 
 # Classification - (Machine Learning).
 TOPICS: Cluster Evaluation, Cross Validation, Cross Validation with Folds, Evaluate DataSet, K Dependent Bayes, K DTrees Nearest-Neightbors, KMeans, K Nearest Neightbors, Native Bayes, Optimization SVM, Random Forest and SVM (Support Vector Machine). 
