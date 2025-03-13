@@ -1,4 +1,4 @@
-# SciBlock.org - Now is available - any comments info@sciblock.org / info@sciblock.net
+# SciBlock.org - Now is available - any comments info@sciblock.org
 
 # You can also consult documentation and examples at www.sciblock.net
 
