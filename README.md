@@ -1,7 +1,7 @@
 # The extensions are in AIA format. You can easily import them into AppInventor.
 Menu --> Projects ---> Import project (aia) from my computer --> Select File --> Ok button
 
-# SciBlock.org - Now is available - any comments info@sciblock.org
+# SciBlock.org - Now is available - any comments info@sciblock.net
 
 # You can also consult documentation and examples at www.sciblock.net
 
@@ -55,4 +55,4 @@ TOPICS: PoW (Proof of Work), Creation address cryptocurrencies (Bitcoin, Ethereu
 TOPICS: Quantum logic gates, superposition and entanglement operations, creation of models and programs to run on real computers, simulator.
 
 # information
-info@sciblock.org / www.sciblock.org / www.sciblock.net / Sciblock Foundation.
+info@sciblock.net / www.sciblock.net / Sciblock Foundation.
