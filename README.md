@@ -1,7 +1,7 @@
 # The extensions are in AIA format. You can easily import them into AppInventor.
 Menu --> Projects ---> Import project (aia) from my computer --> Select File --> Ok button
 
-# SciBlock.org - Now is available - any comments info@sciblock.net
+# Now is available - any comments info@sciblock.net
 
 # You can also consult documentation and examples at www.sciblock.net
 
