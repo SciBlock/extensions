@@ -52,7 +52,7 @@ TOPICS: Web Server, SSH, IP-Forwarding. Remote access direct to any mobile devic
 TOPICS: PoW (Proof of Work), Creation address cryptocurrencies (Bitcoin, Ethereum and 15 types more), security transaction and operations, database blockchain, Transaction on blockchain ethereum and bitcoin, raw transactions, transaction signatures, P2P communications. Wallet creation, creation of your own cryptocurrency or token. 
 
 # Quantum Computer (Q42025).
-TOPICS: Quantum logic gates, superposition and entanglement operations, creation of models and programs to run on real computers, simulator.
+TOPICS: Quantum logic gates, superposition and entanglement operations (gates H, X, Y, Z, CNOT, Rotation Rx, Ry, Rz, Square root X,Y,Z, SWAP, etc) creation of models and programs to run on real computers, not simulator.
 
 # information
 info@sciblock.net / www.sciblock.net / Sciblock Foundation.
