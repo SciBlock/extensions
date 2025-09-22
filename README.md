@@ -55,4 +55,4 @@ TOPICS: PoW (Proof of Work), Creation address cryptocurrencies (Bitcoin, Ethereu
 TOPICS: Quantum logic gates, superposition and entanglement operations (gates H, X, Y, Z, CNOT, Rotation Rx, Ry, Rz, Square root X,Y,Z, SWAP, etc) creation of models and programs to run on real computers, not simulator.
 
 # information
-info@sciblock.net / www.sciblock.net / Sciblock Foundation.
+info@sciblock.net / www.sciblock.net / Sciblock and OpenQbit are branchs of www.OpenQbit.com
